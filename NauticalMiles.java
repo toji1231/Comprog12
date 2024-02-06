@@ -1,5 +1,5 @@
 /**
- * NauticalMiles - Created by [Brint Kyle P. De Leon] on 2024-02-06.
+ * NauticalMiles[Brint Kyle P. De Leon].java
  */
 class NauticalMiles 
 {
